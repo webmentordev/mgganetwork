@@ -18,7 +18,7 @@
         ogTitle: 'The Sanctuary Rust Server',
         description: 'Welcome to The Sanctuary Rust official website. Get all The Sanctuary servers connection information here.',
         ogDescription: 'Welcome to The Sanctuary Rust official website. Get all The Sanctuary servers connection information here.',
-        ogImage: 'https://cdn.discordapp.com/attachments/1129278239358062592/1129396420202463252/background_exfil.png',
+        ogImage: 'https://cdn.discordapp.com/attachments/1130104696066015342/1130479487625216120/cut512x277.gif',
         twitterCard: 'summary_large_image',
     });
 </script>
