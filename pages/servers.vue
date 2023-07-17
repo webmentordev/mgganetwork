@@ -29,7 +29,7 @@
                     <div class="absolute top-0 h-full left-0 bg-rust" :style="{ width: `${(server.players / server.maxPlayers) * 100}%` }"></div>
                     <p class="relative text-white text-sm font-semibold">{{ server.players }}/{{ server.maxPlayers }}</p>
                 </div>
-                <NuxtLink to="steam://connect/23.111.172.146:50555" class="link bg-main w-full text-center py-3 text-white text-lg rounded-lg hover:text-white hover:bg-black transition-all" target="_blank" rel="nofollow">Connect</NuxtLink>
+                <NuxtLink to="steam://connect/23.111.172.146:50557" class="link bg-main w-full text-center py-3 text-white text-lg rounded-lg hover:text-white hover:bg-black transition-all" target="_blank" rel="nofollow">Connect</NuxtLink>
             </div>
         </div>
     </section>

@@ -5,7 +5,7 @@
             <img src="/logo2.png" class="m-auto mb-6 max-w-[300px] 480px:max-w-[150px]" alt="Exile Logo">
             <h1 class="text-4xl text-white/90 mb-3 480px:text-4xl text-center">Welcome to<br><span class="text-8xl">The SANCTUARY</span></h1>
             <ul class="m-auto flex items-center justify-center">
-                <NuxtLink class="mr-2 py-3 rounded hover:text-white hover:bg-dark transition-all px-6 bg-main link text-dark text-xl inline-block" to="steam://connect/tpa5.gravelhost.com:50555" target="_blank"><Icon name="bi:steam" class="text-2xl mr-1" /> Connect</NuxtLink>
+                <NuxtLink class="mr-2 py-3 rounded hover:text-white hover:bg-dark transition-all px-6 bg-main link text-dark text-xl inline-block" to="steam://connect/23.111.172.146:50557" target="_blank"><Icon name="bi:steam" class="text-2xl mr-1" /> Connect</NuxtLink>
                 <NuxtLink class="mr-2 py-3 rounded hover:text-white hover:bg-dark transition-all px-6 bg-main link text-dark text-xl inline-block" to="https://discord.gg/intotheunknown" target="_blank"><Icon name="fa6-brands:discord" class="text-2xl mr-1" /> Discord</NuxtLink>
             </ul>
         </div>
