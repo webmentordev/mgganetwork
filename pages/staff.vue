@@ -17,7 +17,7 @@
                         </div>
                     </div>
                     <div class="bg-black p-6 rounded-lg relative group">
-                        <span class="absolute top-2 rounded-sm font-semibold left-2 p-2 text-sm px-3 bg-rust">Owner</span>
+                        <span class="absolute top-2 rounded-sm font-semibold left-2 p-2 text-sm px-3 bg-rust">Co-owner</span>
                         <img class="mb-5 rounded-md group-hover:scale-125 transition-all" width="200" height="200" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/386180/e47273b62284f3ab2e2b9b15c89607c8c1d4dd16.gif">
                         <div class="info">
                             <h2 class="text-center text-xl mb-3">GrimKngCobra</h2>
