@@ -31,13 +31,13 @@
             </div>
             <div class="grid grid-cols-1 gap-12 text-white w-fit m-auto 550px:grid-cols-1">
                 <div class="bg-black p-6 rounded-lg relative group">
-                    <span class="absolute top-2 rounded-sm font-semibold left-2 p-2 text-sm px-3 bg-rust">Developer</span>
-                    <img class="mb-5 rounded-md group-hover:scale-125 transition-all" width="200" height="200" src="https://avatars.akamai.steamstatic.com/5d9378ab988f5ca6842d7e6f9c71e02b23928f21_full.jpg">
+                    <span class="absolute top-2 rounded-sm font-semibold left-2 p-2 text-sm px-3 bg-rust">Head Admin</span>
+                    <img class="mb-5 rounded-md group-hover:scale-125 transition-all" width="200" height="200" src="https://avatars.akamai.steamstatic.com/01af89c29152b7acf677a466e0405044da2ef6f6_full.jpg">
                     <div class="info">
-                        <h2 class="text-center text-xl mb-3">iLoBBer</h2>
+                        <h2 class="text-center text-xl mb-3">GratefulDead</h2>
                         <div class="flex text-md items-center justify-center">
                             <Icon class="mr-2" name="logos:discord-icon" />
-                            <span class="text-sm">ilobber</span>
+                            <span class="text-sm">_gratefuldead</span>
                         </div>
                     </div>
                 </div>
